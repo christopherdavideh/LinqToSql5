@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSql", "LinqToSql\LinqToSql.csproj", "{8A7B0261-150E-4167-91E6-72DB3976211A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{8E600D07-F84D-4460-8822-B6198B9BA5F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{E4B3CF5A-C9B6-484A-96D8-E383934C2E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7B0261-150E-4167-91E6-72DB3976211A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7B0261-150E-4167-91E6-72DB3976211A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7B0261-150E-4167-91E6-72DB3976211A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7B0261-150E-4167-91E6-72DB3976211A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E600D07-F84D-4460-8822-B6198B9BA5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E600D07-F84D-4460-8822-B6198B9BA5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E600D07-F84D-4460-8822-B6198B9BA5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E600D07-F84D-4460-8822-B6198B9BA5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B3CF5A-C9B6-484A-96D8-E383934C2E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B3CF5A-C9B6-484A-96D8-E383934C2E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B3CF5A-C9B6-484A-96D8-E383934C2E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B3CF5A-C9B6-484A-96D8-E383934C2E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C52BE175-9533-45AB-A8E3-DEAA9188667D}
+	EndGlobalSection
+EndGlobal

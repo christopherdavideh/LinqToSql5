@@ -32,7 +32,7 @@ namespace LinqToSql
             {
                 if (Session["admin"] != null)
                 {
-                    Response.Redirect("Admin.aspx");
+                    Response.Redirect("Admin.aspx");//Redirecciona a lapgina de Admin
                 }
                 if (Session["usu"] != null)
                 {
